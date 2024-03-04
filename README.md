@@ -6,4 +6,4 @@ This is my first beginner project from Front-End mentor using css flex
 
 ## SOURCE REPOSITORY: https://github.com/gvanand22/qr-code-CH
 
-## LIVE-SITE URL: 
+## LIVE-SITE URL: https://gvanand22.github.io/qr-code-CH/
