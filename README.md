@@ -4,6 +4,6 @@ This is my first beginner project from Front-End mentor using css flex
 ## MOBILE DESIGN MODEL
 ![mobile-design](https://github.com/gvanand22/qr-code-CH/assets/110307201/a96938bc-15bd-4bcc-8b90-c29396bfa212)
 
-## SOURCE REPOSITORY:
+## SOURCE REPOSITORY: https://github.com/gvanand22/qr-code-CH
 
 ## LIVE-SITE URL: 
